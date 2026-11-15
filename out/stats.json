@@ -1,0 +1,53 @@
+{
+ "words_in_list": 446,
+ "words_by_level": {
+  "1": 145,
+  "2": 164,
+  "3": 137
+ },
+ "easy": {
+  "puzzles": 365,
+  "size": 5,
+  "words_per_puzzle": 5.2,
+  "min_words": 5,
+  "max_words": 6,
+  "distinct_words": 119,
+  "most_uses": [
+   "EON",
+   20
+  ],
+  "attempts_per_puzzle": 150,
+  "rebuilds": 0,
+  "seconds": 25
+ },
+ "intermediate": {
+  "puzzles": 365,
+  "size": 13,
+  "words_per_puzzle": 17.7,
+  "min_words": 15,
+  "max_words": 21,
+  "distinct_words": 292,
+  "most_uses": [
+   "AREA",
+   25
+  ],
+  "attempts_per_puzzle": 40,
+  "rebuilds": 0,
+  "seconds": 109
+ },
+ "guru": {
+  "puzzles": 365,
+  "size": 15,
+  "words_per_puzzle": 16.2,
+  "min_words": 15,
+  "max_words": 21,
+  "distinct_words": 299,
+  "most_uses": [
+   "RING",
+   24
+  ],
+  "attempts_per_puzzle": 40,
+  "rebuilds": 3,
+  "seconds": 185
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "chunk": 31,
+ "epoch": "2026-01-01",
+ "levels": {
+  "easy": {
+   "count": 365,
+   "size": 5
+  },
+  "intermediate": {
+   "count": 365,
+   "size": 13
+  },
+  "guru": {
+   "count": 365,
+   "size": 15
+  }
+ }
+}

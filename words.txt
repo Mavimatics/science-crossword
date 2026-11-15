@@ -1,0 +1,456 @@
+# Math and science crossword vocabulary.
+# Format: ANSWER | level | clue | harder clue (optional)
+# level 1 = everyday science, 2 = high school and early university, 3 = specialist.
+# Easy puzzles use level 1 with the first clue; Intermediate mixes 1-2; Guru mixes 2-3 and prefers the harder clue.
+
+# ---------- Level 1 ----------
+ACID | 1 | Substance with a pH below 7 | Lemon juice, chemically
+ACUTE | 1 | Like an angle under 90 degrees | Sharp, as a triangle's corners might be
+ADD | 1 | Find the sum | Combine, in arithmetic
+ALGAE | 1 | Pond scum, to a biologist | Seaweeds, collectively
+ALLOY | 1 | Bronze or brass, for example | Steel, chemically speaking
+ANGLE | 1 | It's measured in degrees | Space between two rays from a common point
+ARC | 1 | Part of a circle's circumference | Curved path of a thrown ball
+AREA | 1 | Length times width, for a rectangle | It's measured in square units
+ARGON | 1 | Noble gas making up about 1% of air | Element 18
+ATOM | 1 | Smallest unit of a chemical element | Nucleus plus electrons
+AXIS | 1 | Earth spins around it | X or y, on a graph
+BASE | 1 | Opposite of an acid | Bottom side of a triangle
+BIT | 1 | Binary digit | Smallest unit of computer data
+BLOOD | 1 | It's pumped by the heart | Fluid carrying red cells
+BOND | 1 | Link between atoms in a molecule | Covalent or ionic connection
+BONE | 1 | Part of a skeleton | The femur is the longest one
+BORON | 1 | Element with symbol B | Element 5
+BRAIN | 1 | Organ inside the skull | Control center of the nervous system
+BYTE | 1 | Eight bits | Unit of computer memory
+CARBON | 1 | Element found in all organic compounds | Element 6
+CELL | 1 | Basic unit of life | Battery unit
+CHORD | 1 | Line segment joining two points on a circle | Its longest version is a diameter
+CIRCLE | 1 | Round shape with every point equally far from the center | Pi's shape
+CLONE | 1 | Genetically identical copy | Dolly the sheep, famously
+COMET | 1 | Icy body with a glowing tail | Halley's, for one
+CONE | 1 | Solid with a circular base and a point | Ice cream holder, geometrically
+COPPER | 1 | Element with symbol Cu | Metal in most electrical wires
+CORE | 1 | Earth's center | Innermost part of the Sun
+CRATER | 1 | Bowl-shaped dent from an impact | Moon surface feature
+CUBE | 1 | Solid with six square faces | Raise to the third power
+CURVE | 1 | Line that isn't straight | Graph of y = x squared, for one
+DATA | 1 | Measurements collected in an experiment | What statistics summarizes
+DELTA | 1 | Fan-shaped landform at a river's mouth | Greek letter meaning "change in"
+DIGIT | 1 | Any of 0 through 9 | Finger or number
+DNA | 1 | Molecule carrying the genetic code | Double helix, briefly
+EARTH | 1 | Third planet from the Sun | Our home planet
+ECHO | 1 | Reflected sound | Sound that bounces back
+EDGE | 1 | Where two faces of a solid meet | A cube has twelve of these
+ELECTRON | 1 | Negatively charged particle | Particle orbiting a nucleus
+ENERGY | 1 | Capacity to do work | Kinetic or potential quantity
+EON | 1 | Very long span of geologic time | Billion-year stretch, roughly
+EVEN | 1 | Like 2, 4 or 6 | Divisible by two
+FACTOR | 1 | Number that divides another exactly | 3, to 12
+FIELD | 1 | Magnetic ___ | Region where a force acts
+FLUX | 1 | Flow through a surface, in physics | Constant change
+FORCE | 1 | Mass times acceleration | It's measured in newtons
+FOSSIL | 1 | Preserved remains of ancient life | Trilobite in stone
+FUNGI | 1 | Mushrooms and molds | Kingdom including yeasts
+GALAXY | 1 | The Milky Way, for one | Island of billions of stars
+GAS | 1 | State of matter with no fixed shape or volume | Steam, for example
+GENE | 1 | Unit of heredity | Stretch of DNA coding for a trait
+GERM | 1 | Disease-causing microbe | It spreads on unwashed hands
+GLAND | 1 | Organ that releases hormones | Thyroid, for one
+GOLD | 1 | Element with symbol Au | Element 79
+GRAPH | 1 | Plot of data | Chart with axes
+HEART | 1 | Organ that pumps blood | It has four chambers in humans
+HEAT | 1 | Energy that flows from hot to cold | Thermal energy in transit
+HELIUM | 1 | Gas that makes balloons float | Element 2
+HELIX | 1 | Spiral shape of DNA | Corkscrew curve
+HOST | 1 | Organism a parasite lives on | Virus's target
+ION | 1 | Charged atom | Atom that gained or lost electrons
+IRON | 1 | Element with symbol Fe | Metal in hemoglobin
+JOULE | 1 | Unit of energy | One newton-meter
+LASER | 1 | Device producing a narrow beam of light | Pointer used in a lecture
+LAVA | 1 | Molten rock on Earth's surface | Volcano's outflow
+LEAD | 1 | Element with symbol Pb | Heavy metal once used in paint
+LEAF | 1 | Site of photosynthesis in most plants | Plant part with stomata
+LENS | 1 | Curved glass that bends light | Part of the eye that focuses
+LIMIT | 1 | Value a function approaches | Core idea of calculus
+LINE | 1 | Shortest path between two points, on a plane | Graph of y = mx + b
+LIQUID | 1 | State of matter that takes the shape of its container | Water at room temperature, for one
+LOG | 1 | Inverse of an exponential, for short | Record of observations
+LUNG | 1 | Organ for breathing | Site of gas exchange in mammals
+MAGMA | 1 | Molten rock beneath Earth's surface | Rock before it erupts
+MAGNET | 1 | It attracts iron | Compass needle, essentially
+MASS | 1 | Measure of how much matter an object has | It's measured in kilograms
+MEAN | 1 | Average | Sum divided by count
+MEDIAN | 1 | Middle value of an ordered data set | 50th percentile
+METER | 1 | SI unit of length | About 3.3 feet
+METEOR | 1 | Shooting star | Streak of light in the night sky
+MODE | 1 | Most common value in a data set | Most frequent value, statistically
+MOLE | 1 | Unit for amount of substance | About 6.02 x 10^23 particles
+MOON | 1 | Earth's natural satellite | It drives the tides
+NERVE | 1 | Fiber carrying signals in the body | Optic ___
+NEON | 1 | Glowing gas in signs | Element 10
+NEUTRON | 1 | Uncharged particle in a nucleus | Particle with no electric charge
+NODE | 1 | Point where branches meet in a network | Point of no vibration on a standing wave
+NOVA | 1 | Star that suddenly brightens | Super___ (stellar explosion)
+ODD | 1 | Like 3, 5 or 7 | Not divisible by two
+OHM | 1 | Unit of electrical resistance | Volt per ampere
+OPTICS | 1 | Study of light | Lenses and mirrors science
+ORBIT | 1 | Path of a planet around a star | Circle the Earth, as a satellite
+ORE | 1 | Rock mined for its metal | Bauxite, for aluminum
+ORGAN | 1 | Heart or liver, for example | Group of tissues with a job
+OVUM | 1 | Egg cell | Female reproductive cell
+OXIDE | 1 | Rust, chemically | Compound with oxygen
+OXYGEN | 1 | Gas we need to breathe | Element with symbol O
+OZONE | 1 | Gas forming a protective layer high in the atmosphere | O3
+PETAL | 1 | Colorful part of a flower | Part of a corolla
+PHASE | 1 | Solid, liquid or gas | Stage of the Moon
+PLANE | 1 | Flat surface extending forever | Two-dimensional space in geometry
+PLANET | 1 | Mars or Venus | World orbiting a star
+POINT | 1 | Location with no size, in geometry | Decimal ___
+POLE | 1 | North or South end of a magnet | End of Earth's axis
+POWER | 1 | Exponent | Energy per unit time
+PRIME | 1 | Divisible only by 1 and itself | Like 7, but not 9
+PRISM | 1 | Glass that splits light into colors | Solid with two identical parallel bases
+PROOF | 1 | Argument that settles a theorem | It may end with "QED"
+PROTON | 1 | Positively charged particle in a nucleus | Hydrogen nucleus
+QUAKE | 1 | Tremor, for short | Event on a seismograph
+RADIUS | 1 | Half a diameter | Center-to-edge distance
+RADON | 1 | Radioactive gas found in some basements | Element 86
+RANGE | 1 | Largest value minus smallest | Set of a function's outputs
+RATIO | 1 | Comparison like 3:4 | Quotient of two quantities
+RAY | 1 | Half of a line | Beam of light
+ROOT | 1 | Solution of an equation | Square ___
+SECOND | 1 | SI unit of time | One sixtieth of a minute
+SEED | 1 | Plant embryo with a food store | It sprouts
+SET | 1 | Collection of distinct objects, to a mathematician | Group with no repeats
+SINE | 1 | Opposite over hypotenuse | Trig function with a wavy graph
+SLOPE | 1 | Rise over run | Steepness of a line
+SODIUM | 1 | Element with symbol Na | Half of table salt
+SOLID | 1 | State of matter with a fixed shape | Ice, for example
+SOUND | 1 | Vibration carried through air | It travels about 343 meters per second in air
+SPEED | 1 | Distance over time | Velocity without direction
+SPHERE | 1 | Perfectly round ball | Set of points equally far from a center, in 3D
+SPORE | 1 | Reproductive cell of a fern or fungus | Mold's seed
+SQUARE | 1 | Shape with four equal sides and four right angles | Multiply a number by itself
+STAR | 1 | The Sun, for one | Ball of gas powered by fusion
+STEM | 1 | ___ cell | Plant stalk
+SUM | 1 | Result of addition | Total
+TERM | 1 | Part of an algebraic expression | Element of a sequence
+TIDE | 1 | Rise and fall of the sea | It's pulled by the Moon
+TIN | 1 | Element with symbol Sn | Metal in bronze
+TISSUE | 1 | Group of similar cells | Muscle or nerve material
+UNIT | 1 | Meter or second, for example | One
+VEIN | 1 | Vessel carrying blood toward the heart | Mineral streak in rock
+VERTEX | 1 | Corner of a polygon | Tip of a cone
+VIRUS | 1 | Tiny infectious agent that needs a host cell | Flu cause
+VOLT | 1 | Unit of electric potential | Battery rating unit
+WATT | 1 | Unit of power | One joule per second
+WAVE | 1 | Disturbance that carries energy | Ocean ___ or sound ___
+XENON | 1 | Noble gas used in bright lamps | Element 54
+ZERO | 1 | Neither positive nor negative | Additive identity
+ZINC | 1 | Element with symbol Zn | Coating on galvanized steel
+
+# ---------- Level 2 ----------
+ACCELERATION | 2 | Rate of change of velocity | About 9.8 meters per second squared, for a falling object
+ACOUSTICS | 2 | Science of sound | Concert hall design concern
+ALGEBRA | 2 | Math with letters standing for numbers | Its name comes from the Arabic al-jabr
+ALGORITHM | 2 | Step-by-step procedure for solving a problem | Recipe, for a computer
+ALLELE | 2 | Version of a gene | One of two copies you inherit for a trait
+AMPERE | 2 | Unit of electric current | SI base unit for current
+ANTIBODY | 2 | Protein that tags invaders for the immune system | Vaccine-induced defender
+ANTIGEN | 2 | Molecule that triggers an immune response | What an antibody binds
+AORTA | 2 | Body's largest artery | It leaves the left ventricle
+AQUIFER | 2 | Underground layer holding water | Source of well water
+ASTEROID | 2 | Rocky body orbiting the Sun, often between Mars and Jupiter | Ceres was once classified as one
+AVERAGE | 2 | Sum divided by count | Mean
+AXIOM | 2 | Statement accepted without proof | Starting assumption in geometry
+AXON | 2 | Nerve fiber that carries signals away from the cell body | Neuron's long projection
+BACTERIA | 2 | Single-celled microbes without a nucleus | E. coli and relatives
+BAROMETER | 2 | Instrument that measures air pressure | Weather forecaster's gauge
+BINARY | 2 | Number system using only 0 and 1 | Base two
+BIOME | 2 | Large community like a desert or tundra | Rainforest, ecologically
+CALCULUS | 2 | Math of rates of change | Field developed by Newton and Leibniz
+CATALYST | 2 | Substance that speeds a reaction without being used up | Enzyme, in effect
+CHLOROPHYLL | 2 | Green pigment in plants | Light-catching molecule in leaves
+CHROMOSOME | 2 | Threadlike package of DNA | Humans have 46 of these
+CIRCUIT | 2 | Closed path for electric current | Series or parallel arrangement
+CONDUCTOR | 2 | Material that lets electricity flow | Copper, electrically
+CORTEX | 2 | Outer layer of the brain | Gray-matter layer
+COSINE | 2 | Adjacent over hypotenuse | Sine's partner
+CRYSTAL | 2 | Solid with atoms in a repeating pattern | Quartz specimen
+CYLINDER | 2 | Solid shaped like a can | Engine chamber for a piston
+CYTOPLASM | 2 | Jelly-like fluid inside a cell | Where organelles float
+DECIBEL | 2 | Unit of loudness | Logarithmic measure of sound level
+DECIMAL | 2 | Base-ten number system | ___ point
+DENOMINATOR | 2 | Bottom of a fraction | The 4 in 3/4
+DENSITY | 2 | Mass per unit volume | It's why ice floats on water
+DERIVATIVE | 2 | Slope of a curve at a point | Rate of change, in calculus
+DIAMETER | 2 | Longest chord of a circle | Twice the radius
+DIFFUSION | 2 | Spreading of particles from high to low concentration | How perfume fills a room
+ECLIPSE | 2 | When one body blocks the light of another | Solar or lunar event
+ECOSYSTEM | 2 | Community of organisms and their environment | Coral reef, ecologically
+ELEMENT | 2 | Substance made of one kind of atom | Entry in the periodic table
+ELLIPSE | 2 | Oval shape of a planet's orbit | Conic section with two foci
+ENTROPY | 2 | Measure of disorder | It never decreases in an isolated system
+ENZYME | 2 | Protein that speeds up a reaction in the body | Amylase or lactase
+EQUATION | 2 | Statement that two expressions are equal | E = mc^2, for one
+EROSION | 2 | Wearing away of rock by water or wind | How canyons form
+EVOLUTION | 2 | Change in species over generations | Darwin's big idea
+EXOPLANET | 2 | Planet beyond our solar system | World orbiting another star
+EXPONENT | 2 | The 2 in x squared | Power, in algebra
+FACTORIAL | 2 | Product of all positive integers up to n | What "!" means after a number
+FORMULA | 2 | Recipe written in symbols | H2O, for water
+FRACTAL | 2 | Shape that repeats at every scale | Snowflake curve, for one
+FRACTION | 2 | One half, for example | Numerator over denominator
+FREQUENCY | 2 | Number of cycles per second | It's measured in hertz
+FRICTION | 2 | Force that resists sliding | Why rubbing hands warms them
+FUNCTION | 2 | Rule giving one output for each input | f(x)
+GENOME | 2 | An organism's complete set of DNA | What a sequencing project reads
+GEOMETRY | 2 | Math of shapes and space | Euclid's subject
+GLACIER | 2 | Slow river of ice | It carves U-shaped valleys
+GRADIENT | 2 | Slope, in general | Direction of steepest ascent
+GRAVITY | 2 | Force that keeps us on the ground | It bends light, per Einstein
+HABITAT | 2 | Natural home of an organism | Where a species lives
+HEMOGLOBIN | 2 | Iron-containing protein that carries oxygen in blood | It makes red blood cells red
+HERTZ | 2 | Unit of frequency | One cycle per second
+HEXAGON | 2 | Six-sided polygon | Shape of a honeycomb cell
+HORMONE | 2 | Chemical messenger in the blood | Insulin or adrenaline
+HYDROGEN | 2 | Lightest element | Element 1
+HYPOTENUSE | 2 | Longest side of a right triangle | Side opposite the right angle
+HYPOTHESIS | 2 | Testable prediction | Educated guess
+INERTIA | 2 | Tendency of an object to resist changes in motion | Concept behind Newton's first law
+INTEGER | 2 | Whole number, positive or negative | -3, 0 or 7
+INTEGRAL | 2 | Area under a curve, in calculus | Antiderivative, in a sense
+ISOSCELES | 2 | Like a triangle with two equal sides | Having two equal legs
+ISOTOPE | 2 | Atom with an unusual number of neutrons | Carbon-14, for one
+KELVIN | 2 | Temperature unit starting at absolute zero | SI base unit of temperature
+KILOGRAM | 2 | SI unit of mass | About 2.2 pounds
+KINETIC | 2 | ___ energy (energy of motion) | Relating to motion
+LAMBDA | 2 | Greek letter for wavelength | Greek letter for an eigenvalue
+LATTICE | 2 | Repeating grid of points, as in a crystal | Regular arrangement of atoms
+LOGARITHM | 2 | Exponent you need to reach a given number | Inverse of exponentiation
+MATRIX | 2 | Rectangular array of numbers | Grid used in linear algebra
+MEIOSIS | 2 | Cell division that makes sex cells | Process halving the chromosome count
+MEMBRANE | 2 | Thin layer around a cell | Barrier with a lipid bilayer
+METABOLISM | 2 | All the chemical reactions in a living body | Process that burns calories
+MICROSCOPE | 2 | Instrument for viewing cells | Tool with an objective lens
+MITOSIS | 2 | Cell division making two identical cells | Process with prophase and anaphase
+MODULO | 2 | Remainder operation | Clock arithmetic operation
+MOLECULE | 2 | Two or more atoms bonded together | H2O, for one
+MOMENTUM | 2 | Mass times velocity | Quantity conserved in a collision
+MUTATION | 2 | Change in a DNA sequence | Source of new genetic variation
+NEBULA | 2 | Cloud of gas and dust in space | Star nursery
+NEURON | 2 | Nerve cell | Brain cell that fires
+NEUTRINO | 2 | Nearly massless particle that rarely interacts | Trillions pass through you every second
+NEWTON | 2 | SI unit of force | One kilogram-meter per second squared
+NITROGEN | 2 | Gas making up most of Earth's air | Element 7
+NUCLEUS | 2 | Control center of a cell | Dense center of an atom
+NUMERATOR | 2 | Top of a fraction | The 3 in 3/4
+OBTUSE | 2 | Like an angle over 90 degrees | Wide, as an angle
+OCTAGON | 2 | Eight-sided polygon | Stop sign shape
+ODE | 2 | Equation like dy/dt = ky, briefly | Differential equation with one variable, briefly
+OMEGA | 2 | Greek letter for angular frequency | Last Greek letter
+ORBITAL | 2 | Region where an electron is likely found | s, p, d or f
+OSMOSIS | 2 | Movement of water across a membrane | Why a raisin swells in water
+PARABOLA | 2 | U-shaped graph of a quadratic | Path of a thrown ball, ideally
+PARALLEL | 2 | Like lines that never meet | Circuit arrangement with branches
+PASCAL | 2 | Unit of pressure | One newton per square meter
+PATHOGEN | 2 | Microbe that causes disease | Germ, technically
+PENDULUM | 2 | Swinging weight in a clock | Galileo studied its swing
+PENTAGON | 2 | Five-sided polygon | Shape of each face of a dodecahedron
+PERIMETER | 2 | Distance around a shape | Fence length, for a field
+PHOTON | 2 | Particle of light | Quantum of electromagnetic radiation
+PLASMA | 2 | Fourth state of matter | Liquid part of blood
+POLYGON | 2 | Closed shape with straight sides | Triangle or hexagon
+POLYMER | 2 | Long chain of repeating units | Plastic, chemically
+POLYNOMIAL | 2 | Expression like 3x^2 + 2x + 1 | Quadratic, for one
+POSITRON | 2 | Antimatter electron | Positively charged counterpart of the electron
+PRESSURE | 2 | Force per unit area | It's measured in pascals
+PROBABILITY | 2 | Chance of an event, from 0 to 1 | Likelihood, in math
+PROTEIN | 2 | Molecule built from amino acids | Muscle builder
+PULSAR | 2 | Rapidly spinning neutron star | Cosmic lighthouse
+PYRAMID | 2 | Solid with a polygon base and triangular sides | Giza structure, geometrically
+QUARK | 2 | Building block of protons | Up, down or strange particle
+QUASAR | 2 | Extremely bright core of a distant galaxy | Light source powered by a black hole
+QUOTIENT | 2 | Result of division | Ratio, numerically
+RADIAN | 2 | Angle unit of about 57.3 degrees | Angle that cuts an arc equal to the radius
+RECTANGLE | 2 | Shape with four right angles | Its area is length times width
+REDSHIFT | 2 | Stretching of light from a receding galaxy | Evidence of the expanding universe
+RESONANCE | 2 | Large vibration at a natural frequency | Why a singer can shatter a glass
+RHOMBUS | 2 | Parallelogram with four equal sides | Diamond shape
+RIBOSOME | 2 | Cell's protein factory | Site of translation
+SATELLITE | 2 | Object orbiting a planet | The Moon, to Earth
+SCALAR | 2 | Quantity with size but no direction | Plain number, to a physicist
+SCALENE | 2 | Like a triangle with no equal sides | Uneven, as a triangle
+SECANT | 2 | Line cutting a curve at two points | One over cosine
+SEDIMENT | 2 | Particles that settle at the bottom of water | Sandstone's raw material
+SEQUENCE | 2 | Ordered list of numbers | 1, 1, 2, 3, 5, ..., for one
+SIGMA | 2 | Greek letter for a sum | Symbol for standard deviation
+SOLVENT | 2 | Liquid that dissolves another substance | Water, often
+SPECIES | 2 | Group of organisms that can interbreed | Homo sapiens, for one
+SPECTRUM | 2 | Rainbow of colors from a prism | Range of wavelengths
+STATISTICS | 2 | Science of collecting and analyzing data | Field of means and medians
+SUPERNOVA | 2 | Explosion of a dying star | Stellar blast that can outshine a galaxy
+SYMBIOSIS | 2 | Close relationship between two species | Clownfish and anemone partnership
+SYMMETRY | 2 | Balance across a line or point | Mirror property
+SYNAPSE | 2 | Gap between two nerve cells | Junction neurotransmitters cross
+TANGENT | 2 | Line that touches a curve at one point | Opposite over adjacent
+TELESCOPE | 2 | Instrument for viewing distant objects | Hubble, for one
+TESLA | 2 | Unit of magnetic field strength | SI unit an MRI magnet is rated in
+THEOREM | 2 | Statement proved from axioms | Pythagoras's famous result
+THERMOMETER | 2 | Temperature gauge | Instrument with a bulb and scale
+THETA | 2 | Greek letter often used for an angle | Eighth Greek letter
+TORQUE | 2 | Twisting force | Force times lever arm
+TRANSISTOR | 2 | Tiny electronic switch in a chip | Building block of a processor
+TRAPEZOID | 2 | Four-sided shape with a pair of parallel sides | Quadrilateral like a cut-off triangle
+TRIANGLE | 2 | Three-sided polygon | Its angles sum to 180 degrees
+TURBULENCE | 2 | Chaotic fluid flow | Cause of a bumpy flight
+ULTRASOUND | 2 | Sound too high-pitched for humans to hear | Prenatal scan technique
+VACCINE | 2 | Shot that trains the immune system | Jenner's smallpox breakthrough
+VARIABLE | 2 | Letter like x in an equation | Quantity that can change
+VARIANCE | 2 | Average squared distance from the mean | Standard deviation squared
+VECTOR | 2 | Quantity with size and direction | Arrow, mathematically
+VELOCITY | 2 | Speed with direction | Rate of change of position
+VISCOSITY | 2 | Thickness of a fluid | Why honey pours slowly
+VOLTAGE | 2 | Electric potential difference | What a battery's rating measures
+WAVELENGTH | 2 | Distance between two crests | It's shorter for blue light than red
+ZENITH | 2 | Point directly overhead | Highest point in the sky
+
+# ---------- Level 3 ----------
+ADIABATIC | 3 | Without heat exchange | Like a process in a perfectly insulated system
+AEROACOUSTICS | 3 | Study of noise generated by airflow | Field concerned with jet and airfoil noise
+ALBEDO | 3 | Fraction of light a surface reflects | Snow's is high, asphalt's is low
+ANNULUS | 3 | Ring-shaped region between two circles | Washer shape, mathematically
+ANTIDERIVATIVE | 3 | Function whose derivative is given | Indefinite integral
+ANTIMATTER | 3 | Matter made of positrons and antiprotons | It annihilates on contact with ordinary matter
+APHELION | 3 | Point of an orbit farthest from the Sun | Earth reaches it in early July
+APOGEE | 3 | Farthest point of the Moon's orbit from Earth | High point of a satellite's orbit
+APOPTOSIS | 3 | Programmed cell death | Cellular self-destruct
+ASTHENOSPHERE | 3 | Soft layer of mantle beneath the plates | Weak zone tectonic plates ride on
+ASYMPTOTE | 3 | Line a curve approaches but never reaches | y = 0, for y = 1/x
+ATTRACTOR | 3 | State a dynamical system settles toward | Lorenz's butterfly-shaped set
+BIFURCATION | 3 | Sudden change in a system's behavior as a parameter varies | Fork in a dynamical system
+BIJECTION | 3 | One-to-one and onto function | Perfect pairing between two sets
+BOSON | 3 | Particle like the photon or the Higgs | Force-carrying particle
+CANDELA | 3 | SI unit of luminous intensity | Base unit originally tied to candlelight
+CAPACITANCE | 3 | Ability to store electric charge | It's measured in farads
+CEPHEID | 3 | Pulsating star used to measure cosmic distances | Variable star that's a standard candle
+CHEMOTAXIS | 3 | Movement toward or away from a chemical | How bacteria follow food
+CHIRALITY | 3 | Handedness of a molecule | Property of non-superimposable mirror images
+CHLOROPLAST | 3 | Organelle where photosynthesis happens | Green plant-cell structure
+CIRCUMFERENCE | 3 | Distance around a circle | Pi times diameter
+CODON | 3 | Three-letter unit of the genetic code | AUG, for one
+COMBINATORICS | 3 | Math of counting arrangements | Field of permutations and choices
+CONIC | 3 | Ellipse, parabola or hyperbola | Section of a cone
+CONJECTURE | 3 | Unproven mathematical claim | Goldbach's, still open
+CONTINUITY | 3 | Property of a function without jumps | Unbroken quality, in calculus
+CONVERGENCE | 3 | Approach of a sequence to a limit | Opposite of divergence
+CONVOLUTION | 3 | Integral that blends two functions | Operation behind blurring an image
+COROLLARY | 3 | Result that follows directly from a theorem | Bonus proposition
+COVARIANCE | 3 | Measure of how two variables vary together | Unscaled correlation
+CYTOSKELETON | 3 | Network of protein fibers giving a cell its shape | Cell scaffold of microtubules
+DETERMINANT | 3 | Number from a square matrix that's zero if it's singular | ad - bc, for a 2x2
+DIFFERENTIAL | 3 | ___ equation | Infinitesimal change, like dx
+DIFFRACTION | 3 | Bending of waves around obstacles | Why you can hear around corners
+DIVERGENCE | 3 | Measure of a field's outflow from a point | Opposite of convergence
+DODECAHEDRON | 3 | Platonic solid with twelve faces | Solid with pentagonal faces
+EIGENFUNCTION | 3 | Function that an operator only rescales | Mode of a vibrating string
+EIGENVALUE | 3 | The scalar lambda in Av = lambda v | Characteristic root of a matrix
+EIGENVECTOR | 3 | Vector that a matrix only stretches | The v in Av = lambda v
+ELECTROLYSIS | 3 | Splitting a compound with electric current | Way to make hydrogen from water
+ENANTIOMER | 3 | Mirror-image form of a chiral molecule | Molecular left or right hand
+ENDOTHERMIC | 3 | Absorbing heat, as a reaction | Like a cold pack's reaction
+ENTHALPY | 3 | Heat content of a system | H, in thermodynamics
+EPIDEMIOLOGY | 3 | Study of how diseases spread | Field that models outbreaks
+EPSILON | 3 | Tiny quantity in a limit proof | Greek letter for permittivity
+ESTIMATOR | 3 | Rule for guessing a parameter from data | Sample mean, for the population mean
+EXON | 3 | Coding stretch of a gene | Part kept after splicing
+EXOTHERMIC | 3 | Releasing heat, as a reaction | Like burning
+EXTRAPOLATION | 3 | Estimating beyond the range of the data | Forecasting's risky step
+FARAD | 3 | Unit of capacitance | One coulomb per volt
+FERMION | 3 | Particle that obeys the exclusion principle | Electron or quark, by spin
+GENOTYPE | 3 | An organism's genetic makeup | Aa, for instance
+GENUS | 3 | Rank above species | Number of holes in a surface, in topology
+GEODESIC | 3 | Shortest path on a curved surface | Great circle, on a globe
+GLUON | 3 | Particle that binds quarks | Carrier of the strong force
+GROUP | 3 | Set with an associative operation, identity and inverses | Structure studied in abstract algebra
+HADRON | 3 | Proton or neutron, generally | Particle made of quarks
+HARMONIC | 3 | Whole-number multiple of a fundamental frequency | Overtone
+HETEROZYGOUS | 3 | Having two different alleles | Aa, genetically
+HOMEOMORPHISM | 3 | Map showing a mug and a donut are topologically the same | Continuous bijection with a continuous inverse
+HOMEOSTASIS | 3 | Body's maintenance of a stable internal state | Steady state, physiologically
+HOMOZYGOUS | 3 | Having two identical alleles | AA or aa
+HYPERBOLA | 3 | Conic section with two branches | Graph of y = 1/x
+HYSTERESIS | 3 | Dependence of a system's state on its history | Magnetic memory effect
+ICOSAHEDRON | 3 | Platonic solid with twenty faces | Shape of a classic twenty-sided die
+IMPEDANCE | 3 | Resistance to alternating current | Z, in a circuit
+INDUCTANCE | 3 | Property of a coil opposing changes in current | It's measured in henries
+INEQUALITY | 3 | Statement like x < 5 | Triangle ___
+INFINITESIMAL | 3 | Vanishingly small quantity | Leibniz's dx
+INTEGRAND | 3 | Function inside an integral sign | f(x), in the integral of f(x) dx
+INTERFERENCE | 3 | Overlap of waves that reinforces or cancels | Cause of the fringes in the double-slit experiment
+INTERPOLATION | 3 | Estimating between known data points | Filling in a table's gaps
+INTRON | 3 | Noncoding stretch of a gene | Part removed by splicing
+IRRATIONAL | 3 | Like pi or the square root of 2 | Not expressible as a fraction
+ISOBAR | 3 | Line of equal pressure on a weather map | Contour on a pressure chart
+ISOMER | 3 | Molecule with the same formula but a different structure | Isobutane, relative to butane
+ISOMORPHISM | 3 | Structure-preserving bijection | Proof that two groups are "the same"
+ISOSTASY | 3 | Balance of Earth's crust floating on the mantle | Why mountains have deep roots
+ISOTHERMAL | 3 | Happening at constant temperature | Like a slow compression in a heat bath
+KERNEL | 3 | Null space of a linear map | Set a homomorphism sends to the identity
+LEMMA | 3 | Helper result in a proof | Stepping-stone theorem
+LEPTON | 3 | Electron or neutrino, in particle physics | Particle that ignores the strong force
+LITHOSPHERE | 3 | Rigid outer shell of Earth | Crust plus upper mantle
+LOCUS | 3 | Set of points satisfying a condition | A circle, for points equally far from a center
+LYMPHOCYTE | 3 | White blood cell like a T or B cell | Adaptive immune cell
+MAGNETAR | 3 | Neutron star with an extreme magnetic field | Strongest known magnet in the universe
+MANIFOLD | 3 | Space that looks flat up close | Surface, generalized
+MANTISSA | 3 | Significant digits of a floating-point number | Part of a number after the exponent is factored out
+MICROBIOME | 3 | Community of microbes living in a body | Gut flora, collectively
+MITOCHONDRIA | 3 | Powerhouses of the cell | Organelles with their own DNA
+MUON | 3 | Heavy cousin of the electron | Lepton common in cosmic-ray showers
+NADIR | 3 | Point directly below an observer | Lowest point
+NONLINEAR | 3 | Not proportional, as most real dynamics | Like the equations of chaos
+NUCLEOTIDE | 3 | Building block of DNA | A, C, G or T unit
+ORTHOGONAL | 3 | At right angles | Like vectors with a zero dot product
+OSCILLATOR | 3 | System that swings back and forth | Pendulum or LC circuit
+OXIDATION | 3 | Loss of electrons | Rusting, chemically
+PALEONTOLOGY | 3 | Study of fossils | Dinosaur science
+PARALLAX | 3 | Apparent shift used to measure distances to stars | Why your thumb seems to jump when you switch eyes
+PARALLELOGRAM | 3 | Quadrilateral with two pairs of parallel sides | Rhombus's family
+PARSEC | 3 | About 3.26 light-years | Astronomer's distance unit
+PDE | 3 | Heat equation, for one, briefly | Equation with partial derivatives, for short
+PERIGEE | 3 | Closest point of the Moon's orbit to Earth | Low point of a satellite's orbit
+PERIHELION | 3 | Point of an orbit closest to the Sun | Earth reaches it in early January
+PERMITTIVITY | 3 | How easily a material polarizes in an electric field | Epsilon, in Coulomb's law
+PERMUTATION | 3 | Ordered arrangement | One of n! orderings
+PHAGOCYTE | 3 | Cell that engulfs invaders | Immune "eating" cell
+PHENOTYPE | 3 | Observable traits of an organism | Eye color, genetically speaking
+PHOTOSYNTHESIS | 3 | How plants make sugar from light | Process that splits water and releases oxygen
+PHYLOGENY | 3 | Evolutionary family tree | History of a lineage
+PIEZOELECTRIC | 3 | Generating voltage when squeezed | Like quartz in a watch
+PLASMID | 3 | Small circle of bacterial DNA | Gene-carrying ring used in cloning
+POLARIZATION | 3 | Orientation of a light wave's vibration | What polarized sunglasses filter by
+POLYHEDRON | 3 | Solid with flat polygonal faces | Cube, generally
+POLYMERASE | 3 | Enzyme that copies DNA or RNA | PCR's key enzyme
+QUATERNION | 3 | Four-part number used for 3D rotations | Hamilton's extension of complex numbers
+QUBIT | 3 | Quantum bit | Unit of quantum information
+REGRESSION | 3 | Fitting a line through data | Least-squares technique
+RING | 3 | Algebraic structure with addition and multiplication | The integers, to an algebraist
+SEMICONDUCTOR | 3 | Material between a conductor and an insulator | Silicon, electrically
+SINGULARITY | 3 | Point where a function blows up | Black hole's center
+STOCHASTIC | 3 | Random, in a model | Driven by chance
+STOICHIOMETRY | 3 | Math of reactant and product amounts | Balancing a chemical equation, quantitatively
+SUBDUCTION | 3 | Sinking of one plate beneath another | Process at an ocean trench
+SUPERCONDUCTOR | 3 | Material with zero electrical resistance | Cooled coil in an MRI machine
+SURJECTION | 3 | Onto function | Map that hits every element of its codomain
+TENSOR | 3 | Generalization of vectors and matrices | Stress, mathematically
+TESSELLATION | 3 | Tiling with no gaps or overlaps | Escher's specialty
+TETRAHEDRON | 3 | Triangular pyramid | Platonic solid with four faces
+THERMODYNAMICS | 3 | Physics of heat and energy | Science with famous laws about energy and entropy
+TOPOLOGY | 3 | Rubber-sheet geometry | Study of properties unchanged by stretching
+TORUS | 3 | Doughnut shape, mathematically | Surface of genus one
+TRANSCENDENTAL | 3 | Like pi or e | Not a root of any polynomial with integer coefficients
+TRANSCRIPTION | 3 | Copying DNA into RNA | First step of gene expression
+TRANSLATION | 3 | Building a protein from mRNA | Shift, in geometry
+VORTICITY | 3 | Local spinning of a fluid | Curl of a velocity field
